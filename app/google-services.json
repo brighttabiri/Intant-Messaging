@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921228269052",
+    "firebase_url": "https://instant-messaging-b09f2-default-rtdb.firebaseio.com",
+    "project_id": "instant-messaging-b09f2",
+    "storage_bucket": "instant-messaging-b09f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921228269052:android:61e0fb45db022cc3da4e79",
+        "android_client_info": {
+          "package_name": "com.example.instant_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921228269052-ujr33ku19sp2mkjqd3t7sejjtlb1b5ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxzba37cQO4GA29mOrjmDcdaECf3VoZdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921228269052-ujr33ku19sp2mkjqd3t7sejjtlb1b5ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

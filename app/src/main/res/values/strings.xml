@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Instant_Messaging</string>
+    <string name="login">login</string>
+    <string name="khalifa">KHALIFA</string>
+    <string name="register">register</string>
+    <string name="create_a_new_account">Create a new account</string>
+</resources>
